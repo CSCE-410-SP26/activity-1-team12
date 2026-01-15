@@ -1,0 +1,4 @@
+1. Number of files in root directory: After EX4 there are 22 files, 3 of them are non-programable 
+2. Available user programs in xv6: There are 19 user programs
+
+
